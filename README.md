@@ -1,4 +1,4 @@
-## full-stack to-do list application
+## Full-stack to-do list application
 
 This Full-Stack To-Do List Application is designed to help users manage their tasks efficiently.
 
