@@ -1,6 +1,6 @@
-## What This Project Does
+## full-stack to-do list application
 
-This Full-Stack To-Do List Application is designed to help users manage their tasks efficiently. Here's a detailed breakdown of its functionality:
+This Full-Stack To-Do List Application is designed to help users manage their tasks efficiently.
 
 1. **Task Management**:
    - Users can create new tasks by entering task descriptions.
@@ -34,6 +34,3 @@ This Full-Stack To-Do List Application is designed to help users manage their ta
    - The backend includes basic security measures, such as input validation, to prevent common vulnerabilities.
    - CORS (Cross-Origin Resource Sharing) is implemented to control which domains can communicate with the API.
 
-This To-Do List application serves as a practical tool for personal task management while also demonstrating full-stack development practices. It showcases the integration of a React frontend with a Node.js/Express backend, RESTful API design, database integration with MongoDB, and responsive web design principles.
-
-Whether you're using this application to manage your daily tasks or exploring it as a learning resource for full-stack development, it provides a comprehensive example of modern web application architecture and implementation.
